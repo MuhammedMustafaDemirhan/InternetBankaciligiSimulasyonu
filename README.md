@@ -12,6 +12,9 @@ Bu proje müşterilerin birbirleriyle para transferi gerçekleştirebildiği bir
 **Geçmiş İşlemler**
 ![Hareket Tablosu](GecmisIslemler.png)
 
+**Müşteri Kayıt Etme ve Bilgi Güncelleme Ekranı**
+
+![Müşteri Kayıt Ekranı](MusteriKayitEkrani.png)
 ## Kullanılan Teknolojiler
 Projede aşağıdaki teknolojiler kullanılmaktadır:
 
