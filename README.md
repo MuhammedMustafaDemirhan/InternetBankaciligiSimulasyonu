@@ -3,6 +3,7 @@
 Bu proje müşterilerin birbirleriyle para transferi gerçekleştirebildiği bir internet bankacılığı simülasyonudur. Yeni oluşturulacak veya mevcutta olan müşterilerin verileri veritabanında saklıdır.
 ## Önizleme
 **Giriş Ekranı**
+
 ![Giriş Ekranı](GirisEkrani.png)
 
 **Ana Ekran**
